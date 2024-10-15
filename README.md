@@ -1,5 +1,5 @@
-## Greetings to everyone who visited my profile here👋
-![Emilia](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-lululolily/blob/profile-upload/photo_2024-10-15_10-09-24.jpg)
+# Greetings to everyone who visited my profile here👋
+![Emilia](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-lululolily/blob/profile-upload/emiliaaa.jpg)
 
 # Introduction
 My name is Tengku Puteri Emilia binti Tengku Nazaruddin Shah, a final year Software Engineering student in University of Malaya. Nice to meet you! My GitHub is currently full of repositories that I've worked on throughout all the courses that I took for 3 years I have been here.
