@@ -6,10 +6,6 @@ My name is Tengku Puteri Emilia binti Tengku Nazaruddin Shah, a final year Softw
 ## About Me
 🔭 I’m currently working on my final year project mobile application for flight crew personal assistant system called FlyPal, I worked on this project with my partner and we use M.E.R.N stack, React Native frameworks and Expo Go for application establishment. We haven't yet deployed the application since it's still currently in development.
 
-## Work Experience
-1. IT Intern at Orsted - Power BI, Data Analyst, Microsoft Azure DevOps and Power Automation
-2. IT Risk and Compliance Intern at Razer - Power BI, MySQL Workbench and Software Compliance
-
 🌱 I’m currently learning on how to work for my final year project using React Native frameworks and I usually learnt through multiple resources, either from repositories that I found on Github or YouTube or Overstackflow, sometimes I would use A.I as my helping tool if I couldn't figure out how to do it.
 
 👯 I’m looking to collaborate on projects that could boost my coding and development skills especially using Python or C language.
@@ -25,4 +21,8 @@ My name is Tengku Puteri Emilia binti Tengku Nazaruddin Shah, a final year Softw
 😄 Pronouns: she/her
 
 ⚡ Fun fact: I actually enjoy when people guide me to understand better about coding with easier and better explanations and letting me explore more on their projects.
+
+## Work Experience
+1. IT Intern at Orsted - Power BI, Data Analyst, Microsoft Azure DevOps and Power Automation
+2. IT Risk and Compliance Intern at Razer - Power BI, MySQL Workbench and Software Compliance
 
