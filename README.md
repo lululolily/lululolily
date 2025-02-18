@@ -5,7 +5,7 @@
 My name is Tengku Puteri Emilia binti Tengku Nazaruddin Shah, a final year Software Engineering student in University of Malaya. Nice to meet you! My GitHub is currently full of repositories that I've worked on throughout all the courses that I took for 3 years I have been here.
 
 ## About Me
-🔭 I’m currently working on my final year project mobile application for flight crew personal assistant system called FlyPal, I worked on this project with my partner and we use M.E.R.N stack, React Native frameworks and Expo Go for application establishment. We haven't yet deployed the application since it's still currently in development.
+🔭 I’m currently working on my final year project mobile application for flight crew personal assistant system called FlyPal, I worked on this project with my partner and we use M.E.R.N stack, React Native frameworks and Expo Go for application establishment. We have already deployed the application using Expo Build and have completed our Viva assessments.
 
 🌱 I’m currently learning on how to work for my final year project using React Native frameworks and I usually learnt through multiple resources, either from repositories that I found on Github or YouTube or Overstackflow, sometimes I would use A.I as my helping tool if I couldn't figure out how to do it.
 
